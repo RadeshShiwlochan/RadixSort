@@ -4,3 +4,10 @@ This program implements RadixSort in Java. It takes two files as arguments, one 
 	make an input file eg input.txt with a sequence of numbers with no comma's to separate the numbers, just spaces
 	make an output file eg output.txt to print the results
 	run the program with input.txt as argument 1 and output.txt as argument 2
+
+This programs uses a few different data structures which include : 
+
+	• Linked List
+	• arrays
+	• Stacks
+	• Queues	
